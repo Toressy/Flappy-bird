@@ -12,13 +12,13 @@ A 2D Unity platformer game project inspired by the classic Flappy Bird, built wi
 
 ## 🧱 Project Structure
 
-├── Assets/
-│ ├── Scripts/ # Game logic scripts (C#)
-│ ├── Sprites/ # Visual assets
-│ ├── Scenes/ # Unity scenes
-│ ├── Land/, Title/, etc. # Prefabs and game objects
-├── Packages/ # Unity packages
-├── ProjectSettings/ # Unity project settings
+── Assets/
+  ── Scripts/ # Game logic scripts (C#)
+  ── Sprites/ # Visual assets
+  ── Scenes/ # Unity scenes
+  ── Land/, Title/, etc. # Prefabs and game objects
+── Packages/ # Unity packages
+── ProjectSettings/ # Unity project settings
 
 
 ## 🧩 Main Scripts
